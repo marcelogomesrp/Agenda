@@ -1,0 +1,8 @@
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\bin\Debug\AgendaConsole.exe.config
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\bin\Debug\AgendaConsole.exe
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\bin\Debug\AgendaConsole.pdb
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\bin\Debug\Agenda.dll
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\bin\Debug\Agenda.pdb
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\obj\Debug\AgendaConsole.csprojResolveAssemblyReference.cache
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\obj\Debug\AgendaConsole.exe
+c:\Users\marcelo\documents\visual studio 2013\Projects\Agenda\AgendaConsole\obj\Debug\AgendaConsole.pdb
